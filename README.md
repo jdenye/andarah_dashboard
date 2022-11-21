@@ -1,16 +1,11 @@
-# andarah
+# andarah_work
 
-A new Flutter project.
+Andarah Dashboard is a flutter based multi-platform application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application,
+First download the project unto your local machine.
+When using IDE, open the project and use the following command.
 
-A few resources to get you started if this is your first Flutter project:
+flutter run lib/main.dart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
